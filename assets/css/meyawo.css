@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 =========================================================
-*  Landing page
+* Meyawo Landing page
 =========================================================
 
 * Copyright: 2019 DevCRUD (https://devcrud.com)
@@ -11213,7 +11213,7 @@ p {
   transition: all, 0.3s;
   width: 0;
   height: 0;
-  border-radius: 80%;
+  border-radius: 50%;
   overflow: hidden;
 }
 
@@ -12174,7 +12174,6 @@ pre .code {
   min-width: 400px;
   max-width: 400px;
   margin-right: 20px;
-  border-radius: 100%;
 }
 
 .about-img-holder .about-img {
